@@ -1,0 +1,7 @@
+C:\Users\sofia\Documents\Desarrollo\PuebaTecnica Ease Solutions\LongestPath\LongestPath\obj\Debug\LongestPath.csprojAssemblyReference.cache
+C:\Users\sofia\Documents\Desarrollo\PuebaTecnica Ease Solutions\LongestPath\LongestPath\obj\Debug\LongestPath.csproj.CoreCompileInputs.cache
+C:\Users\sofia\Documents\Desarrollo\PuebaTecnica Ease Solutions\LongestPath\LongestPath\bin\Debug\LongestPath.exe.config
+C:\Users\sofia\Documents\Desarrollo\PuebaTecnica Ease Solutions\LongestPath\LongestPath\bin\Debug\LongestPath.exe
+C:\Users\sofia\Documents\Desarrollo\PuebaTecnica Ease Solutions\LongestPath\LongestPath\bin\Debug\LongestPath.pdb
+C:\Users\sofia\Documents\Desarrollo\PuebaTecnica Ease Solutions\LongestPath\LongestPath\obj\Debug\LongestPath.exe
+C:\Users\sofia\Documents\Desarrollo\PuebaTecnica Ease Solutions\LongestPath\LongestPath\obj\Debug\LongestPath.pdb
